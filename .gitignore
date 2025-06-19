@@ -22,7 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# Entornos virtuales de Python
-venv/
-.venv/
